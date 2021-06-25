@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Akash Santhosh](https://pbs.twimg.com/profile_images/1097543107208302592/-D6NzUsc_400x400.jpg)
