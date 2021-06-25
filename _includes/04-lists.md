@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- :heart:  I’m currently working on everything
+- :+1:  I’m currently learning everything
+- :smile: I’m looking to collaborate on anything
+- :sparkles: I’m looking for help with anything
+- :tada: Ask me about anything
