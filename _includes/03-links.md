@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://github.com/akash-santhosh)
+[Twitter](https://twitter.com/_akashsanthosh)
+[Instagram](https://instgram.com/akash._.santhosh)
+[Linkedin](https://linkedin.com/in/akashsanthosh)
